@@ -1,1 +1,1 @@
-# pagina-responsive
+Pagina responsive con diferentes estilos
